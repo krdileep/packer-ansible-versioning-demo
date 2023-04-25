@@ -1,0 +1,3 @@
+- src: git+https://github.com/krdileep/ansible-versioning-role.git
+  version: v1.0.0
+  name: version

@@ -1,0 +1,5 @@
+---
+- name: Ansible Demo
+  hosts: localhost
+  roles:
+    - role: version
